@@ -1,0 +1,14 @@
+{
+    "fields": {
+       "project":
+       {
+          "key": "TEST"
+       },
+       "summary": "Vladan Babic",
+       "description": "vladanbabic70@gmail.com 
+       +38267234650",
+       "issuetype": {
+          "name": "Task"
+       }
+   }
+}
